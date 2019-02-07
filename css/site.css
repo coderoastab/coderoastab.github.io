@@ -1,0 +1,25 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color: #333333;
+}
+
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  position: fixed;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+#logo {
+  width: 450px;
+  height: 450px;
+  display: block;
+}
+
+.org-number {
+  margin-right: 0.5em;
+}
